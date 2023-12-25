@@ -1,0 +1,55 @@
+#logo{
+    padding-left: 0%;
+    scale: 25%;
+    position: absolute;
+    top: 0%;    
+}
+#navbar{
+    padding-right: 20%;
+    font-size: "20%";
+    font-family: sans-serif;
+    text-align: right;
+    word-spacing: 10px;
+    margin-top: 30px;
+}
+.button1{
+    background-color: #387ed1;
+    text-align: center;
+    color: white;
+    border-radius: 4px;
+    border: 0;
+    font-size: 1.50rem;
+    padding: 10;
+}
+.button1:hover{
+    background-color: black;
+}
+body{
+    font-family: sans-serif;
+    color: #424242;
+    align-items: center;
+    text-align: center;
+}
+#landing{
+    scale: 80%;
+    margin-top: 5%;
+    height: auto;
+    width: auto;
+    max-width: 90%;
+    max-width: 90%;
+    align-items: center;
+}
+#page{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1{
+    font-size: 2.75rem;
+}
+a{
+    margin-left: 2%;
+    font-family: sans-serif;
+}
+p{
+    font-size: 1.5rem;
+}
